@@ -11,14 +11,14 @@
 }
 .App form input {
   font-size: 1rem;
-  font-weight: 1000;
+  font-weight: 600;
   border-radius: 10px;
   padding: 1rem;
 }
 
 .App form button {
   font-size: 1rem;
-  font-weight: 1000;
+  font-weight: 600;
   padding: 1rem;
   border-radius: 10px;
   background-color: #005ade;
